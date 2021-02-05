@@ -20,6 +20,7 @@ namespace POC_DURR.Controllers
 
         public IActionResult Index()
         {
+
             return View();
         }
 
